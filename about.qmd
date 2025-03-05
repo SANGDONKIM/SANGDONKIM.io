@@ -1,0 +1,16 @@
+---
+title: "SANGDON BLOG"
+image: https://statisticsplaybook.com/wp-content/uploads/2023/09/%EC%8A%AC%ED%86%B5%EB%A1%9C%EA%B3%A0%EB%94%94%EC%9E%90%EC%9D%B8-%ED%88%AC%EB%AA%85512x512.webp
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+소개글을 작성합니다.

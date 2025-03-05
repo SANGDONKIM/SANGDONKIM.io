@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "LS_sangdon"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+
+format:
+  html:
+    theme:
+      - litera
+      - brand
+    css: styles.css
+
+execute: 
+  warning: false
+  freeze: auto
+
